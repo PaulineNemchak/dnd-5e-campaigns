@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: system-ui, sans-serif; 
+    font-size: 22px;
+}
+
+a {
+    color: hsl(195.46deg 44.41% 30.96%);
+}
+
+a:hover {
+    text-decoration: underline wavy;
+}
