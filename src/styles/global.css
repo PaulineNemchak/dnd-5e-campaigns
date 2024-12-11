@@ -14,4 +14,13 @@ a {
 
 a:hover {
     text-decoration: underline wavy;
+    color: hsl(195, 49%, 47%);
+}
+
+a:focus {
+    color: hsl(195, 49%, 47%);
+}
+
+:is(article) h1 {
+   font-size: 2em; 
 }
