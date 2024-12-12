@@ -24,3 +24,19 @@ a:focus {
 :is(article) h1 {
    font-size: 2em; 
 }
+
+table {
+    border-collapse: collapse;
+}
+
+th, td  {
+    padding: 5px 20px;
+}
+
+:is(td, th):not(:last-child) {
+    border-right: 2px solid #000;
+}
+
+tr:not(:last-child) td, th {
+    border-bottom: 2px solid #000;
+}
