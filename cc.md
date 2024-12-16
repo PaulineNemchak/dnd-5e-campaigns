@@ -1,8 +1,3 @@
----
-layout: '../layouts/ArticleLayout.astro'
-pageTitle: 'Character creation'
----
-
 # Character creation
 ## Choose your species/race
 Most common species are allowed by default, be careful not to choose monster traits. Also keep in mind how your character will be perceived in the setting, sometimes they won't be met kindly. For everything outside of 2014 player's handbook ask me just in case. [Link to the most common and allowed by default species](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/races). Write down your traits like speed and languages you know.

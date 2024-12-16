@@ -1,9 +1,6 @@
 # build output
 dist/
 
-# generated types
-.astro/
-
 # dependencies
 node_modules/
 
@@ -25,3 +22,7 @@ pnpm-debug.log*
 
 # vscode setting folder
 .vscode/
+
+# vitepress
+.vitepress/cache
+.vitepress/dist
