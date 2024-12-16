@@ -22,3 +22,7 @@ pnpm-debug.log*
 
 # vscode setting folder
 .vscode/
+
+# vitepress
+.vitepress/cache
+.vitepress/dist
