@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "D&D 5e",
   description: "Custom rules for my d&d campaigns",
+  base: 'https://paulinenemchak.github.io',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
